@@ -1,0 +1,265 @@
+{
+    "status": "ok",
+    "totalResults": 20,
+    "articles": [
+        {
+            "source": {
+            "id": "bbc-sport",
+            "name": "BBC Sport"},
+            "author": null,
+            "title": "England beaten by inspired India in U19 final",
+            "description": "An inspired India win the first Women's Under-19 World Cup by thrashing England in a one-sided final in South Africa.",
+            "url": "http://www.bbc.co.uk/sport/cricket/64444245",
+            "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/70F3/production/_128451982_gettyimages-1460497330.jpg",
+            "publishedAt": "2023-01-29T15:37:28.697066Z",
+            "content": "<table>\r\n<tr><td>ICC Women's Under-19 World Cup final (Potchefstroom)</td></tr><tr><td>England 68 (17.1 overs): MacDonald-Gay 19; Sadhu 2-6</td></tr><tr><td>India 69-3 (14 overs): Tiwari 24*, Trisha … [+3134 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news-in",
+                "name": "Google News (India)"
+            },
+            "author": "HT News Desk",
+            "title": "Odisha Health Minister Naba Das dies hours after he was shot at by cop",
+            "description": "Odisha Chief Minister Naveen Patnaik condemned the attack on Naba Das and met his family.  | Latest News India",
+            "url": "https://www.hindustantimes.com/india-news/odisha-health-minister-naba-das-succumbs-to-injuries-hours-after-he-was-shot-101675002073771.html",
+            "urlToImage": "https://images.hindustantimes.com/img/2023/01/29/1600x900/The-Odisha-police-said-the-bullets-hit-health-mini_1675002213501_1675002214363_1675002214363.jpg",
+            "publishedAt": "2023-01-29T14:24:09+00:00",
+            "content": "Hours after he was attacked, Odisha Health Minister Naba Das on Sunday evening succumbed to the bullet injuries. The minister had sustained critical injuries after an assistant sub inspector of polic… [+1462 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news-in",
+                "name": "Google News (India)"
+            },
+            "author": "Poulomi Ghosh",
+            "title": "'Kerela, Tamil Naidu?': Tharoor slams 'Hindi Rashtravadis' over R-Day poll",
+            "description": "As Shashi Tharoor pointed out the spelling mistakes of Kerala and Tamil Nadu in a poll run by a government site (corrected later), many social media users asked why the Congress MP was creating a North vs South issue.  | Latest News India",
+            "url": "https://www.hindustantimes.com/india-news/kerela-tamil-naidu-shashi-tharoor-slams-hindi-rashtravadis-over-r-day-poll-101674996451473.html",
+            "urlToImage": "https://images.hindustantimes.com/img/2023/01/29/1600x900/2d378f74-6b5b-11ed-95b9-ed68d951bc1b_1669229050468_1674996768246_1674996768246.jpg",
+            "publishedAt": "2023-01-29T12:55:09+00:00",
+            "content": "Congress MP Shashi Tharoor on Sunday tweeted a purported screenshot of a Republic Day poll run by the government website mygov.in and pointed out the spelling mistakes in the names of Kerala and Tami… [+931 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Joe Wallace, Costas Paris, Anna Hirtenstein",
+            "title": "Upstart Indian Shipper Helps Get Russian Oil to Market",
+            "description": "Gatik Ship Management, which took control of 25 tankers after the invasion of Ukraine, now shuttles Russian crude along new trade routes",
+            "url": "https://www.wsj.com/articles/upstart-indian-shipper-helps-get-russian-oil-to-market-11674985846?mod=hp_lead_pos9",
+            "urlToImage": "https://images.wsj.net/im-711989/social",
+            "publishedAt": "2023-01-29T10:30:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "‘Ideology of hate’ consuming India, Gandhi’s great-grandson says",
+            "description": "Tushar Gandhi has blsmrf the rise of PM Modi and the BJP for increasing polarisation and division in the country.",
+            "url": "http://www.aljazeera.com/news/2023/1/29/ideology-of-hate-consuming-india-gandhis-great-grandson-says",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/08/2022-08-15T072754Z_114745352_RC2PWV9C3995_RTRMADP_3_INDIA-INDEPENDENCEDAY.jpg?resize=1920%2C1350",
+            "publishedAt": "2023-01-29T08:09:23Z",
+            "content": "Indias rising tide of Hindu nationalism is an affront to the legacy of Mahatma Gandhi, his great-grandson said ahead of the 75th anniversary of the revered independence heros assassination.\r\nGandhi w… [+3340 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news-in",
+                "name": "Google News (India)"
+            },
+            "author": "News Desk",
+            "title": "‘Not Sure if Any PM Other Than Modi Would’ve Made Me a Minister’: EAM Jaishankar",
+            "description": "Speaking at an event for the release of the Marathi translation of his book, \"The India Way: Strategies for an Uncertain World,\" in Pune, he said that becoming foreign secretary had been the limit of his ambition",
+            "url": "https://www.news18.com/news/politics/no-prime-minister-other-than-modi-wouldve-made-me-minister-eam-jaishankar-6943429.html",
+            "urlToImage": "https://images.news18.com/ibnlive/uploads/2022/09/pm-modi-s-jaishankar-combined-166391130816x9.png",
+            "publishedAt": "2023-01-29T07:13:00+00:00",
+            "content": "External Affairs Minister S Jaishankar while speaking at an event in Pune on Saturday said that he wasnt sure if any other Prime Minister wouldve appointed him as a minister.\r\nSpeaking at an event fo… [+1308 chars]"
+        },
+        {
+            "source": {
+                "id": "australian-financial-review",
+                "name": "Australian Financial Review"
+            },
+            "author": "Emma Connors",
+            "title": "Adani share price: Gautam Adani pushes on with capital raising, stares down critics",
+            "description": "The repercussions from an explosive report by US short-seller Hindenburg Research into the Adani group have spilt over into Indian domestic politics.",
+            "url": "http://www.afr.com/world/asia/pounded-adani-pushes-on-with-share-offer-stares-down-critics-20230129-p5cgaf",
+            "urlToImage": "https://static.ffx.io/images/$zoom_0.3994%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_605%2C$y_65/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/6f138ccb4d4fb75fcc58549681bb63a6ad96ce6e",
+            "publishedAt": "2023-01-29T06:42:31Z",
+            "content": "Institutional investors have already bought in, including Abu Dhabi Investment Authority, Al Mehwar Investments, Citigroup Global, Morgan Stanley and Goldman Sachs. Indias Life Insurance Corporation … [+3071 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-sports",
+                "name": "Fox Sports"
+            },
+            "author": "John Fanta",
+            "title": "Indiana wins fifth straight, commanding Ohio State",
+            "description": "The Hoosiers stayed hot in their 86-70 win over the Buckeyes on Saturday.",
+            "url": "http://www.foxsports.com/stories/college-basketball/takeaways-from-indiana-ohio-state",
+            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/01/1408/814/trayce2.jpg?ve=1&tl=1",
+            "publishedAt": "2023-01-29T04:55:39Z",
+            "content": "What a difference 17 days have made in Indiana's season. The Hoosiers have gone from 1-4 in the Big Ten after a loss to Penn State on Jan. 11, to a 6-4 team in the league and playing much closer to o… [+4534 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news-in",
+                "name": "Google News (India)"
+            },
+            "author": "Press Trust of India",
+            "title": "'Desh ko todne ke bahane...': PM Modi cautions against attempts to create divisions amid BBC row",
+            "description": "Addressing a rally of the National Cadet Corps (NCC) at the Cariappa Ground in Delhi Cantonment, PM Modi said the mantra of unity was the only way for India to achieve grandeur.",
+            "url": "https://www.indiatoday.in/india/story/pm-modi-cautions-against-attempts-to-create-divisions-in-country-2327649-2023-01-29",
+            "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202301/pm_modi_0-sixteen_nine.jpeg?VersionId=u6pMwz20r5mBuqE2Vmp3EYt29P78sIQj",
+            "publishedAt": "2023-01-29T01:07:27+00:00",
+            "content": "By Press Trust of India: Prime Minister Narendra Modi on Saturday cautioned against attempts to sow differences and create divisions in the country but asserted that such efforts would not succeed.\r\n… [+3783 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Emma Hinchliffe, Paige McGlauflin",
+            "title": "Why a former SoftBank partner is tackling mid-career drop-off for working mothers",
+            "description": "Former SoftBank partner and Facebook India director Kirthiga Reddy is the cofounder of Laddrr, a resource hub for working mothers aiming to prevent mid-career drop-off.",
+            "url": "https://fortune.com/2022/06/01/former-softbank-partner-tackling-mid-career-drop-off-for-working-mothers/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2022/05/Kirthiga1.jpg?resize=1200,600",
+            "publishedAt": "2022-06-01T13:22:34Z",
+            "content": "Skip to Content"
+        },
+        {
+            "source": {
+                "id": "the-hindu",
+                "name": "The Hindu"
+            },
+            "author": "Ananth Krishnan",
+            "title": "Dalai Lama’s close aides targeted on Pegasus spyware list",
+            "description": "‘Analysis indicates that the Indian govt. was selecting the potential targets’",
+            "url": "https://www.thehindu.com/news/international/dalai-lamas-close-aides-targeted-on-pegasus-spyware-list/article35474285.ece",
+            "urlToImage": "https://www.thehindu.com/news/international/dvshb0/article35474284.ece/ALTERNATES/LANDSCAPE_615/thjc-DalaiLama",
+            "publishedAt": "2021-07-22T15:47:01Z",
+            "content": "Several of the top India-based aides to the Tibetan spiritual leader, the Dalai Lama, figure on the list of potential targets for spying using the Pegasus spyware, according to a report on Thursday. … [+2399 chars]"
+        },
+        {
+            "source": {
+                "id": "rte",
+                "name": "RTE"
+            },
+            "author": "RTÉ News",
+            "title": "UK continues with reopening plan despite concerns",
+            "description": "British ministers are pushing on with a major easing of restrictions on Monday despite concerns over the Indian variant of coronavirus, as they were criticised for allowing the strain's import.",
+            "url": "https://www.rte.ie/news/uk/2021/0515/1221764-uk-indian-variant/",
+            "urlToImage": "https://img.rasset.ie/0016cb40-1600.jpg",
+            "publishedAt": "2021-05-15T09:33:48Z",
+            "content": "British ministers are pushing on with a major easing of restrictions on Monday despite concerns over the Indian variant of coronavirus, as they were criticised for allowing the strain's import.\r\nPrim… [+5066 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Rajat Pandit",
+            "title": "Army explores procurement of 350 light tanks for mountainous terrain after border standoff with China",
+            "description": "India News:  The Army is now exploring the possibility of procuring 350 light tanks, which can also be transported by air, to augment its firepower in high-altitu",
+            "url": "http://timesofindia.indiatimes.com/india/army-explores-procurement-of-350-light-tanks-for-mountainous-terrain-after-border-standoff-with-china/articleshow/82217825.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-82217908,width-1070,height-580,imgsize-264639,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2021-04-23T08:29:00Z",
+            "content": "Army explores procurement of 350 light tanks for mountainous terrain after border standoff with China\r\n<ul><li>News</li>\r\n<li>India News</li>\r\n<li>Army explores procurement of 350 light tanks for mou… [+58 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Times Of India",
+            "title": "PBKS vs MI Live Score, IPL 2021: Mumbai Indians seek consistency; Punjab Kings eye return to winning ways",
+            "description": "IPL Live Score: Mumbai Indians seek consistency; Punjab Kings eye return to winning ways. Stay with TOI to get IPL live score, playing 11, scorecard, highlights and ball by ball score updates of the 17th IPL match between Punjab Kings and Mumbai Indians.",
+            "url": "http://timesofindia.indiatimes.com/sports/cricket/ipl/live-blog/punjab-kings-vs-mumbai-indians-pbks-vs-mi-live-score-ipl-2021-17th-match-chennai/liveblog/82214950.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-82214950,width-1070,height-580,imgsize-157009,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2021-04-23T05:44:49Z",
+            "content": "Ravi Bishnoi return on the cards?\r\nDeepak Hooda showed what he is capable of, but greater consistency would be needed from him if the team has to prosper. They bet on Australian pace imports Jhye Ric… [+3131 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "PTI",
+            "title": "Zydus Cadila gets DCGI nod for hepatitis drug for Covid-19 treatment",
+            "description": "India News: Drug firm Zydus Cadila on Friday said it has received restricted emergency use approval from the Indian drug regulator for the use of Pegylated Interf",
+            "url": "http://timesofindia.indiatimes.com/india/zydus-cadila-gets-dcgi-nod-for-hepatitis-drug-for-covid-19-treatment/articleshow/82214909.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-82214921,width-1070,height-580,imgsize-98052,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2021-04-23T05:43:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Bloomberg",
+            "title": "Even record death toll may hide extent of India’s Covid crisis",
+            "description": "India News: Bodies piling up at crematoriums and burial grounds across India are sparking concerns that the death toll from a ferocious new Covid-19 wave may be m.",
+            "url": "http://timesofindia.indiatimes.com/india/even-record-death-toll-may-hide-extent-of-indias-covid-crisis/articleshow/82213444.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-82213819,width-1070,height-580,imgsize-232887,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2021-04-23T04:41:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Dipak K Dash",
+            "title": "Government to provide 5 kg free food grains to poor for May & June",
+            "description": "India News: The government on Friday announced to provide 5 kg free food grains to the poor for May and June 2021. This will cover nearly 80 crore beneficiaries u",
+            "url": "http://timesofindia.indiatimes.com/india/government-to-provide-5-kg-free-food-grains-to-poor-for-may-june/articleshow/82213582.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-82213583,width-1070,height-580,imgsize-1921513,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2021-04-23T04:23:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "TIMESOFINDIA.COM",
+            "title": "'Inappropriate': PM Modi objects to 'protocol break' during meeting; Delhi CM expresses regret",
+            "description": "India News: Delhi chief minister Arvind Kejriwal on Friday faced flak for sharing a live telecast of an \"in-house\" meeting with Prime Minister Narendra Modi where",
+            "url": "http://timesofindia.indiatimes.com/india/delhi-cmo-expresses-regret-over-televised-address-during-meeting-with-pm-modi/articleshow/82213159.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-82213159,width-1070,height-580,imgsize-134672,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2021-04-23T03:54:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Times Of India",
+            "title": "Coronavirus in India live updates: Zydus' Virafin gets DCGI nod for Covid treatment",
+            "description": "In yet another grim milestone, India recorded 3.3 lakh new Covid-19 cases, and 2,263 deaths in a day. Meanwhile, active cases crossed the 24-lakh mar",
+            "url": "http://timesofindia.indiatimes.com/india/coronavirus-in-india-covid-19-vaccine-cases-lockdown-live-updates-23-april-2021/liveblog/82205841.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-82205841,width-1070,height-580,imgsize-148788,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2021-04-22T16:20:06Z",
+            "content": "Zydus Cadila gets DCGI nod for hepatitis drug for Covid-19 treatment\r\nMake Covid-19 vaccination affordable, accessible through Jan Aushadi scheme: IMA\r\nThe IMA has demanded that the Covid-19 vaccine … [+4487 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "I'm fighting my own benchmarks - R Ashwin | ESPNcricinfo.com",
+            "description": "India's No. 1 offspinner talks to Manjrekar on his form abroad, injuries and more | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29102228/fighting-my-own-benchmarks-r-ashwin",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219773_1296x729.jpg",
+            "publishedAt": "2020-04-25T03:00:09Z",
+            "content": "R Ashwin has said that he is \"fighting my own benchmarks\" because his Test performances overseas are being measured against his heroics in India. Despite being the country's best long-form spinner in… [+3347 chars]"
+        }
+    ]
+}
