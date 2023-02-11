@@ -18,14 +18,14 @@ export class Newsitem extends Component {
 
                         <h5 className="card-title">{title}...
 
-                            <span class="position-absolute top-0 translate-middle badge rounded-pill bg-info" style={{left:'86%', zIndex:'1'}}>
+                            <span class="position-absolute top-0 translate-middle badge rounded-pill " style={{ backgroundColor: '#23C4AE', color: 'white', left:'86%', zIndex:'1'}}>
                                 {source}
                                 <span class="visually-hidden">unread messages</span>
                             </span>
 
                         </h5>
                         <p className="card-text">{description}...</p>
-                        <p className="card-text"><small className="text-info">By {!author ? "unknown" : author} on {new Date(date).toGMTString()}</small></p>
+                        <p className="card-text"><small style={{color:'#23C4AE'}} >By {!author ? "unknown" : author} on {new Date(date).toGMTString()}</small></p>
                         <a href={newsUrl} target={"_blank"} className="btn btn-sm btn-dark">Read more..</a>
                     </div>
                 </div>
